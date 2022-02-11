@@ -35,7 +35,7 @@ private int lateral;
      * lado*lado
      * @return
      */
-    public int sup(){
+    private int sup(){
         return lateral*lateral;
     }
 
